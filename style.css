@@ -21,3 +21,28 @@ h1 {
     margin-bottom: 65px;;
 }
 
+input[placeholder] {
+    width: 500px;
+    margin-top: 20px;
+    font-weight: 500;
+    background-color: #F9FAFB;
+    font-family: 'Poppins', sans-serif, 'Roboto';
+    
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    border: none;
+}
+
+input:hover {
+    border-color: #F9FAFB;
+}
+
+button {
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #284BCE;
+    width: 500px;
+    color: #FFFFFF;
+    border-radius: 10px;;
+}
