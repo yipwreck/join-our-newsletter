@@ -1,0 +1,23 @@
+img {
+    width: 52px;
+    height: 52px;
+    margin: 100px 0 25px 0;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif, 'Roboto';
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.text-medium {
+    font-family: 'Poppins', sans-serif, 'Roboto';
+    font-size: 20px;
+    font-weight: 400;
+    color:#6c727f;
+    width: 700px;
+    text-align: center;
+    margin-bottom: 65px;;
+}
+
