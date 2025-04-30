@@ -21,22 +21,23 @@ h1 {
     margin-bottom: 65px;;
 }
 
+.form {
+    background: ;
+}
+
 input[placeholder] {
     width: 500px;
     margin-top: 20px;
     font-weight: 500;
-    background-color: #F9FAFB;
+    background-color: #e5e7eb;
     font-family: 'Poppins', sans-serif, 'Roboto';
-    
+    font-size: 16px;
     border-radius: 10px;
     text-align: center;
     padding: 20px;
-    border: none;
+    border: 2px solid #e0e3ea;
 }
 
-input:hover {
-    border-color: #F9FAFB;
-}
 
 button {
     font-size: 16px;
@@ -44,5 +45,8 @@ button {
     background-color: #284BCE;
     width: 500px;
     color: #FFFFFF;
-    border-radius: 10px;;
+    border-radius: 10px;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+    border: none;
 }
