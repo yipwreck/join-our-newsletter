@@ -15,15 +15,3 @@
     align-items: center;
   }
 
-  .author-info {
-    font-size: 14px;
-    text-align: center;
-    margin-top: 16px;
-    margin-bottom: 16px;
-    color: rgb(55, 65, 81);
-    font-family: 'Poppins', sans-serif, 'Roboto';
-  }
-
-  .author-info a {
-    text-decoration: none;
-  }
